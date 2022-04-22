@@ -412,3 +412,7 @@ function timer() {
     }
 
 }
+
+if (Ball.x <= 0 || Ball.X >= 720) {
+    minus == 0
+}
